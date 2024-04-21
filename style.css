@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botonera{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boton{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+}
+.resultados{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+.puntaje{
+    display: flex;
+    margin: 5px;
+    
+}
+.punt{
+    font-size: 15px;
+    padding: 10px;
+}
